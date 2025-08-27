@@ -39,8 +39,6 @@ Receive clear, actionable advice.
 
 ## Results
 
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/7bcf2459-3630-4acd-a592-55681ab6b795" />
-
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/b6a0d5e8-db1f-405b-a90d-5703f720ca1a" />
 
 <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/d01866d5-0364-44c3-a969-fcec543b5d34" />
